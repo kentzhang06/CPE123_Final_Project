@@ -1,2 +1,3 @@
-# CPE123_Final_Project
-Computational Art
+CPE123 Computational Art Final Project
+
+Final Project by Jed Chen, Tyler Yun, and Kent Zhang: A remake of the original arcade game Plants vs. Zombies. With three members of the group, making the game was fairly difficult but yet fun. Processing shapes were used to create characters of the peashooters, zombies, and suns. To play the game, collect "suns" that are used to buy plants and protect zombies from invading your house. Computational art modeling is all based on processing shapes which is very time consuming. Class and object orientation kept our code organized and allowed us to have different functions for buttons, characters, and collision detection. Frame count and collision detection were by far the most important topics for this game.
